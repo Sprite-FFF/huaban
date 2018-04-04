@@ -1,0 +1,18 @@
+{
+  "name": "huabanwang",
+  "version": "1.0.0",
+  "description": "```js npm install npm run start ```",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^2.6.0",
+    "request": "^2.85.0",
+    "superagent": "^3.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node huaban.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
